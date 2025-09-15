@@ -13,7 +13,6 @@ func FirstWord(s string) string {
 			z01.PrintRune('\n')
 			break
 		}
-		
 	}
 	return "\x00"
 }
